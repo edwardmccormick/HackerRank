@@ -9,3 +9,11 @@
 //     return [alice,bob];
 // }
 
+//https://www.hackerrank.com/challenges/simple-array-sum/problem?h_r=profile
+// Add an array to itself!
+// function simpleArraySum(ar) {
+//     var total = 0;
+//     for (var i = 0; i < ar.length; i++) {
+//         total += ar[i];
+//     }
+//     return total;
