@@ -17,3 +17,11 @@
 //         total += ar[i];
 //     }
 //     return total;
+
+// https://www.hackerrank.com/challenges/staircase/problem
+
+function staircase(n) {
+    var i = 1
+    while (i<=n) {console.log(" ".repeat(n-i)+"#".repeat(i));i++}
+
+}
